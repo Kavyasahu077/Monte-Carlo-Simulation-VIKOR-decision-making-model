@@ -133,8 +133,6 @@ Posterior distributions are analyzed for:
 bayesian_network/posterior_analysis.py
 ```
 
----
-
 ## 6. VIKOR Decision-Making
 
 The VIKOR method ranks alternatives based on:
@@ -142,12 +140,6 @@ The VIKOR method ranks alternatives based on:
 - Multiple conflicting criteria
 - Weighted decision matrices
 - Compromise solutions
-
-# Running the Project
-
-```bash
-python main.py
-```
 
 ---
 
@@ -160,7 +152,11 @@ python main.py
 - Sensitivity analysis dashboards
 
 ---
+# Author
+Kavya Sahu
+Research Intern at Tata Steel
 
+---
 # License
 
 This project is intended for research and educational purposes.
