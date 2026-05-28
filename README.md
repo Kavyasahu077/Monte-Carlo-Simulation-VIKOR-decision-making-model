@@ -132,7 +132,7 @@ Posterior distributions are analyzed for:
 ```python
 bayesian_network/posterior_analysis.py
 ```
-
+---
 ## 6. VIKOR Decision-Making
 
 The VIKOR method ranks alternatives based on:
