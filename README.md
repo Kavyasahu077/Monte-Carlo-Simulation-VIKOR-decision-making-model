@@ -154,6 +154,7 @@ The VIKOR method ranks alternatives based on:
 ---
 # Author
 Kavya Sahu
+
 Research Intern at Tata Steel
 
 ---
