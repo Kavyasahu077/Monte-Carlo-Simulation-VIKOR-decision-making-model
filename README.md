@@ -143,30 +143,6 @@ The VIKOR method ranks alternatives based on:
 - Weighted decision matrices
 - Compromise solutions
 
----
-
-# Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/your-repository.git
-```
-
-Move into the project directory:
-
-```bash
-cd Monte_Carlo_Simulation_VIKOR_Model
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 # Running the Project
 
 ```bash
